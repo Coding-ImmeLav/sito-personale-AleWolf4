@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+.logo {
+    color: white;
+}
+
+.menu {
+    color: white;
+}
+
+.nome {
+    color: white;
+}
+
+.hero {
+    background-color: cornflowerblue;
+    height: 92vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal; 
+}
+
+.rowdies {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.play {
+    font-family: "Play", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
+
+
+#menu {
+    display: none;
+}
+
+footer {
+    height: 13vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logoScuola {
+    height: 13vh;
+    display: flex;
+
+}
+
+.imgLogo {
+    height: 80%;
+}
+
+.info > a {
+    text-decoration: none;
+    background-color: darkcyan;
+    color: white;
+    padding: 10px 8px;
+    border-radius: 10px;
+}
