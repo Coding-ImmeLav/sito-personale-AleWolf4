@@ -31,12 +31,12 @@ header {
 }
 
 .hero {
-    background-color:#FFD700;
+    background-color:rgb(0, 142, 250);
     height: 92vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: black;
 }
 
 .display {
@@ -84,6 +84,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
 }
 
 .logoScuola {
