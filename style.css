@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: cadetblue;
+    background-color: rgb(32, 226, 28);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,12 +31,12 @@ header {
 }
 
 .hero {
-    background-color:rgb(0, 142, 250);
+    background-color:rgb(37, 212, 224);
     height: 92vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .display {
@@ -99,7 +99,7 @@ footer {
 
 .info > a {
     text-decoration: none;
-    background-color: darkcyan;
+    background-color: rgb(238, 5, 5);
     color: white;
     padding: 10px 8px;
     border-radius: 10px;
@@ -124,7 +124,7 @@ footer > div {
 
 .contenitore {
     width: 40%;
-    background-color: lightskyblue ;
+    background-color: rgb(215, 233, 17) ;
     height: 35%;
     margin: 30px;
     justify-content: center;
@@ -159,7 +159,7 @@ footer > div {
 }
 
 .fascia-download {
-    background-color: lightseagreen;
+    background-color: rgb(17, 0, 255);
     width: 100%;
     height: 10vh;
     display: flex;
@@ -204,7 +204,7 @@ a {
 
 .relazione-terza {
     display: flex;
-    background-color: steelblue;
+    background-color: rgb(234, 115, 11);
 }
 
 .sx, .dx {
@@ -223,7 +223,7 @@ a {
 
 .relazione-secondo {
     display: flex;
-    background-color: lightseagreen;
+    background-color: rgb(233, 237, 13);
 }
 
 .foto {
